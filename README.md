@@ -1,8 +1,6 @@
 # Code4rena Contest Rulebook
 
-### Purpose
-
-Code4rena relies heavily on an interdependent community of people doing highly subjective work in a greenfield industry. 
+Code4rena is an interdependent community of people doing highly subjective work in a greenfield industry. 
 
 In order to facilitate consensus building among the commmunity, this repository contains the mechanism, rules, and best current practices (BCPs) of Code4rena contests:
 
