@@ -2,11 +2,11 @@
 
 Code4rena is an interdependent community of people doing highly subjective work in a greenfield industry. 
 
-In order to facilitate consensus building, this repository contains the mechanism, rules, and best current practices (BCPs) of Code4rena contests:
+In order to facilitate consensus building, this repository contains the mechanism, rules, and best current practices of Code4rena contests:
 
-- **[Mechanism](mechanism.md)** represents the fundamentals of how audit contests work, how awards are distributed.
-- **[Rules](rules/)** support the mechanism with nuance applied in subjective scenarios. (Some rules may become part of the core mechanism if they gain enough consensus and maturity to be able to be interpreted objectively.)
-- **[Best Current Practices (BCPs)](bcps/)** are community-driven standards intended to provide guidance for sponsors, judges, and wardens. (Some BCPs may become eventually rules.)
+- **[Mechanism](mechanism.md)** represents the fundamentals of how audit contests work and how awards are distributed.
+- **[Rules](rules/)** support the mechanism with nuance applied in subjective scenarios as interpreted by judges
+- **Best Current Practices** are community-driven discussions intended to provide guidance for sponsors, judges, and wardens. You can find discussions of best current practices in open [rules issues](https://github.com/code-423n4/rulebook/issues?q=is%3Aissue+is%3Aopen+label%3Arules).
 
 # Contributing
 
