@@ -1,14 +1,21 @@
-# Code4rena Contest Rulebook
+# Code4rena Org
+
+- [Governance and community forum](https://github.com/code-423n4/org/discussions)
+- [Rulebook issues](https://github.com/code-423n4/org/issues?q=is%3Aissue+is%3Aopen+label%3Arules)
+- [Organizational Outcomes](https://code4rena.notion.site/c3489176cdb441478c456069b59f1303?v=96a878cb7a5b4911b5239e40f43b6140)
+
+## Code4rena Contest Rulebook
 
 Code4rena is an interdependent community of people doing highly subjective work in a greenfield industry. 
 
 In order to facilitate consensus building, this repository contains the mechanism, rules, and best current practices of Code4rena contests:
 
-- **[Mechanism](mechanism.md)** represents the fundamentals of how audit contests work and how awards are distributed.
-- **[Rules](rules/)** support the mechanism with nuance applied in subjective scenarios as interpreted by judges
-- **Best Current Practices** are community-driven discussions intended to provide guidance for sponsors, judges, and wardens. You can find discussions of best current practices in open [rules issues](https://github.com/code-423n4/rulebook/issues?q=is%3Aissue+is%3Aopen+label%3Arules).
+- **Best Current Practices** are community-driven discussions intended to provide guidance for sponsors, judges, and wardens. You can find discussions of best current practices in open [rules issues](https://github.com/code-423n4/org/issues?q=is%3Aissue+is%3Aopen+label%3Arules).
+- **[Mechanism](mechanism.md)** represents the fundamentals of how audit contests work and how awards are distributed. (minimal currently)
+- **[Rules](rules/)** support the mechanism with nuance applied in subjective scenarios as interpreted by judges (NOT STARTED YET)
 
-# Contributing
+
+### Contributing to the rulebook
 
 Pasted from [this chat thread introducing this repo](https://discord.com/channels/810916927919620096/810936719003090974/938416619800129546) to provide some context in the absence of any documentation for this repo yet :)
 
