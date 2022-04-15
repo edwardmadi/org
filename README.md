@@ -1,6 +1,8 @@
 # Code4rena Org
 
-- [Governance and community forum](https://github.com/code-423n4/org/discussions)
+- [Governance votes](https://www.tally.xyz/governance/eip155:137:0x4Db7E521942BDA8b1fB1B310280135ba4B9c2bee) (C4IP 7+)
+- [Governance votes from prior contract](https://www.tally.xyz/governance/eip155:137:0xc6eaDcC36aFcf1C430962506ad79145aD5140E58) (C4IP 1-6)
+- [Governance discussion / community forum](https://github.com/code-423n4/org/discussions)
 - [Rulebook issues](https://github.com/code-423n4/org/issues?q=is%3Aissue+is%3Aopen+label%3Arules)
 - [Organizational Outcomes](https://code4rena.notion.site/c3489176cdb441478c456069b59f1303?v=96a878cb7a5b4911b5239e40f43b6140)
 
